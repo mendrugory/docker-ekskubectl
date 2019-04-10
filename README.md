@@ -5,7 +5,7 @@
 
 An CLI tool in Docker container to work with your EKS cluster and to be used in your CI/CD pipelines. It contains the kubectl tool but also the aws tool.
 
-This repo triggers auto-build and push images to [Docker Hub](https://dockerhub.com/r/mendrugory/ekskubectl).
+This repo triggers auto-build and push images to [Docker Hub](https://hub.docker.com/r/mendrugory/ekskubectl).
 
 > You must have an AWS account with access to the SDK.
 
